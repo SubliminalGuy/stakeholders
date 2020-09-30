@@ -6,12 +6,12 @@
     {"name": "Julijana Zita", "roles": "EW Germany", "id": 3}
     ],
   "volunteers": [
-       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1},
-       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2},
-       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3},
-       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4},
-      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5},
-      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6}
+       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "url": "https://i.ibb.co/WVjgg0Z/Kaya-Pryor.jpg"},
+       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2, "url": "https://i.ibb.co/vdPwcms/Kalani-Huerta.jpg"},
+       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3, "url": "https://i.ibb.co/wwXbxCn/Jimena-Yates.jpg"},
+       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4, "url": "https://i.ibb.co/GHg6844/Kolby-Cleveland.jpg"},
+      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5, "url": "https://i.ibb.co/6ncwd9z/Valentina-Skinner.jpg"},
+      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "url": "https://i.ibb.co/Xk5Z0TZ/Tzvi-Blackman.jpg"}
   ],
 
   "profile": {
