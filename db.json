@@ -1,1 +1,18 @@
 
+{
+  "companies": [
+    {"name": "Patrizia Pozzo", "roles": "NC Italy", "id": 1},
+    {"name": "Beral Seher Madra", "roles": "PNC Turkey", "id": 2},
+    {"name": "Julijana Zita", "roles": "EW Germany", "id": 3}
+    ],
+  "volunteers": [
+       {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
+       {"name": "Vincent Welsch", "roles": "NC Germany", "id": 2},
+       {"name": "Janina Urban", "roles": "NC Germany", "id": 3},
+       {"name": "Myriam Zekagh", "roles": "NC France", "id": 4}  
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
