@@ -6,10 +6,12 @@
     {"name": "Julijana Zita", "roles": "EW Germany", "id": 3}
     ],
   "volunteers": [
-       {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
-       {"name": "Vincent Welsch", "roles": "NC Germany", "id": 2},
-       {"name": "Janina Urban", "roles": "NC Germany", "id": 3},
-       {"name": "Myriam Zekagh", "roles": "NC France", "id": 4}  
+       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1},
+       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2},
+       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3},
+       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4},
+      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5},
+      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6}
   ],
 
   "profile": {
