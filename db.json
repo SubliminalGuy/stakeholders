@@ -1,9 +1,12 @@
 
 {
   "companies": [
-    {"name": "Patrizia Pozzo", "roles": "NC Italy", "id": 1},
-    {"name": "Beral Seher Madra", "roles": "PNC Turkey", "id": 2},
-    {"name": "Julijana Zita", "roles": "EW Germany", "id": 3}
+    {"name": "Earth 2.0", "field": "Climate Research", "needs": ["Web Developer", "Community Organiser"], "id": 101, "url": "https://i.ibb.co/pbVKxqf/earth.png"},
+    {"name": "My Honey", "field": "Biodiversity", "needs": ["Junior Campaigner", "Campaign Lead"], "id": 102, "url": "https://i.ibb.co/VgMJncT/hexa.png"},
+    {"name": "Edisonify", "field": "Microcredit Hub", "needs": ["Junior Developer Ruby/JavaScript"], "id": 103, "url": "https://i.ibb.co/Wc7Ypxr/ideaa.png"},
+    {"name": "Renewable Me", "field": "Renewable Energy Research", "needs": ["Ecology Students", "Renewable Energy Students"], "id": 104, "url": "https://i.ibb.co/Q9tYYgd/solaytic.png"},
+    {"name": "DeCarbonize", "field": "Carbon Compensation", "needs": ["Fullstack Developer"], "id": 105, "url": "https://i.ibb.co/JBY8pzH/treva.png"},
+    {"name": "Better Stream", "field": "Social Streaming Provider", "needs": ["Office Intern"], "id": 106, "url": "https://i.ibb.co/kqNjcJm/tvit.png"}
     ],
   "volunteers": [
        {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "url": "https://i.ibb.co/WVjgg0Z/Kaya-Pryor.jpg"},
@@ -18,3 +21,4 @@
     "name": "typicode"
   }
 }
+
