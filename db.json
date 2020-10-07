@@ -1,12 +1,12 @@
 
 {
   "companies": [
-    {"name": "Earth 2.0", "field": "Climate Research", "needs": ["Web Developer", "Community Organiser"], "id": 101, "url": "https://i.ibb.co/pbVKxqf/earth.png"},
-    {"name": "My Honey", "field": "Biodiversity", "needs": ["Junior Campaigner", "Campaign Lead"], "id": 102, "url": "https://i.ibb.co/VgMJncT/hexa.png"},
-    {"name": "Edisonify", "field": "Microcredit Hub", "needs": ["Junior Developer Ruby/JavaScript"], "id": 103, "url": "https://i.ibb.co/Wc7Ypxr/ideaa.png"},
-    {"name": "Renewable Me", "field": "Renewable Energy Research", "needs": ["Ecology Students", "Renewable Energy Students"], "id": 104, "url": "https://i.ibb.co/Q9tYYgd/solaytic.png"},
-    {"name": "DeCarbonize", "field": "Carbon Compensation", "needs": ["Fullstack Developer"], "id": 105, "url": "https://i.ibb.co/JBY8pzH/treva.png"},
-    {"name": "Better Stream", "field": "Social Streaming Provider", "needs": ["Office Intern"], "id": 106, "url": "https://i.ibb.co/kqNjcJm/tvit.png"}
+    {"name": "Earth 2.0", "field": "Climate Research", "needs": ["Web Developer", "Community Organiser"], "id": 101, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:50,q_60,r_0,w_200/v1602077350/left-together/earth_km77bc.png"},
+    {"name": "My Honey", "field": "Biodiversity", "needs": ["Junior Campaigner", "Campaign Lead"], "id": 102, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:2,q_60,w_200/v1602077372/left-together/hexa_xgerbr.png"},
+    {"name": "Edisonify", "field": "Microcredit Hub", "needs": ["Junior Developer Ruby/JavaScript"], "id": 103, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:6,q_60,w_200/v1602077372/left-together/ideaa_fmvaev.png"},
+    {"name": "Renewable Me", "field": "Renewable Energy Research", "needs": ["Ecology Students", "Renewable Energy Students"], "id": 104, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:7,q_60,w_200/v1602077372/left-together/solaytic_xraz6c.png"},
+    {"name": "DeCarbonize", "field": "Carbon Compensation", "needs": ["Fullstack Developer"], "id": 105, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:6,q_60,w_200/v1602077372/left-together/treva_pwsmnu.png"},
+    {"name": "Better Stream", "field": "Social Streaming Provider", "needs": ["Office Intern"], "id": 106, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:4,q_60,w_200/v1602077372/left-together/tvit_t6uo7a.png"}
     ],
   "volunteers": [
        {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "url": "https://i.ibb.co/WVjgg0Z/Kaya-Pryor.jpg"},
