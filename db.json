@@ -9,12 +9,12 @@
     {"name": "Better Stream", "field": "Social Streaming Provider", "needs": ["Office Intern"], "id": 106, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:4,q_60,w_200/v1602077372/left-together/tvit_t6uo7a.png"}
     ],
   "volunteers": [
-       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "url": "https://i.ibb.co/WVjgg0Z/Kaya-Pryor.jpg"},
-       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2, "url": "https://i.ibb.co/vdPwcms/Kalani-Huerta.jpg"},
-       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3, "url": "https://i.ibb.co/wwXbxCn/Jimena-Yates.jpg"},
-       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4, "url": "https://i.ibb.co/GHg6844/Kolby-Cleveland.jpg"},
-      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5, "url": "https://i.ibb.co/6ncwd9z/Valentina-Skinner.jpg"},
-      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "url": "https://i.ibb.co/Xk5Z0TZ/Tzvi-Blackman.jpg"}
+       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kaya_Pryor.jpg"},
+       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kalani_Huerta.jpg"},
+       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Jimena_Yates.jpg"},
+       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kolby_Cleveland.jpg"},
+      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Valentina_Skinner.jpg"},
+      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Tzvi_Blackman.jpg"}
   ],
 
   "profile": {
