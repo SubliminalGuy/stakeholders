@@ -9,12 +9,12 @@
     {"name": "Better Stream", "field": "Social Streaming Provider", "needs": ["Office Intern"], "id": 106, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,e_gradient_fade:4,q_60,w_200/v1602077372/left-together/tvit_t6uo7a.png"}
     ],
   "volunteers": [
-       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kaya_Pryor.jpg"},
-       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kalani_Huerta.jpg"},
-       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Jimena_Yates.jpg"},
-       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kolby_Cleveland.jpg"},
-      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Valentina_Skinner.jpg"},
-      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Tzvi_Blackman.jpg"}
+       {"name": "Kaya Pryor", "roles": "Organiser", "id": 1, "bio": "Thinker. Future teen idol. General problem solver. Coffee fanatic. Proud pop culture trailblazer.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kaya_Pryor.jpg"},
+       {"name": "Kalani Huerta", "roles": "UX/UI Designer", "id": 2, "bio": "Beer guru. Travel practitioner. Bacon aficionado. Avid pop culture evangelist. Infuriatingly humble communicator.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kalani_Huerta.jpg"},
+       {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3, "bio": "Music fanatic. Freelance student. Tv expert. Bacon lover. Friendly creator. Social media scholar. Food aficionado.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Jimena_Yates.jpg"},
+       {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4, "bio": "Typical organizer. Analyst. General writer. Devoted travel nerd. Amateur zombie fan.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kolby_Cleveland.jpg"},
+      {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5, "bio": "Falls down a lot. Student. Web enthusiast. Infuriatingly humble zombie ninja. Organizer. Coffee specialist. Devoted entrepreneur.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Valentina_Skinner.jpg"},
+      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "bio": "General communicator. Web junkie. Friendly twitter specialist. Wannabe internet trailblazer. Problem solver.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Tzvi_Blackman.jpg"}
   ],
 
   "profile": {
