@@ -14,7 +14,8 @@
        {"name": "Jimena Yates", "roles": "Chef de Cuisine", "id": 3, "bio": "Music fanatic. Freelance student. Tv expert. Bacon lover. Friendly creator. Social media scholar. Food aficionado.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Jimena_Yates.jpg"},
        {"name": "Kolby Cleveland", "roles": "Frontend Developer", "id": 4, "bio": "Typical organizer. Analyst. General writer. Devoted travel nerd. Amateur zombie fan.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Kolby_Cleveland.jpg"},
       {"name": "Valentina Skinner", "roles": "Social Worker", "id": 5, "bio": "Falls down a lot. Student. Web enthusiast. Infuriatingly humble zombie ninja. Organizer. Coffee specialist. Devoted entrepreneur.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Valentina_Skinner.jpg"},
-      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "bio": "General communicator. Web junkie. Friendly twitter specialist. Wannabe internet trailblazer. Problem solver.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Tzvi_Blackman.jpg"}
+      {"name": "Tzvi Blackman", "roles": "Camera Guy", "id": 6, "bio": "General communicator. Web junkie. Friendly twitter specialist. Wannabe internet trailblazer. Problem solver.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602078167/left-together/Tzvi_Blackman.jpg"},
+      {"name": "Makayla Dejesus", "roles": "Journalist", "id": 7, "bio": "Friendly entrepreneur. Incurable web scholar. Infuriatingly humble music lover. Reader. Pop culture junkie.", "url": "https://res.cloudinary.com/subguy/image/upload/c_scale,q_60,w_300/v1602437681/left-together/Makayla_Dejesus.jpg"}
   ],
 
   "profile": {
